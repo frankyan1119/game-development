@@ -1,4 +1,4 @@
 # game-development
- OOP Design
+A space shooter game
 
 ![til](./space_shooter.gif)
